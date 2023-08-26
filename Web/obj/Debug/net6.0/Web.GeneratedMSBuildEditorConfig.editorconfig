@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Home/TermsAndConditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtc0FuZENvbmRpdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/PackagesOffers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2FnZXNPZmZlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Pricing/AntiWrinkleInjections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xBbnRpV3JpbmtsZUluamVjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Pricing/DermalFillers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xEZXJtYWxGaWxsZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Pricing/FatDisolvingInjections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xGYXREaXNvbHZpbmdJbmplY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Pricing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Pricing/PdoMonoThreads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xQZG9Nb25vVGhyZWFkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Pricing/SkinTreatments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xTa2luVHJlYXRtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Pricing/VitaminBoosters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xWaXRhbWluQm9vc3RlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hilal/Downloads/LaraDemirAesthetics 2/LaraDemirAesthetics/Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

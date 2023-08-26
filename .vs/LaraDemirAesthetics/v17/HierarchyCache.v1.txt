@@ -1,0 +1,502 @@
+﻿++Solution 'LaraDemirAesthetics' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:LaraDemirAesthetics.sln
+++Web
+i:{00000000-0000-0000-0000-000000000000}:Web
+++Connected Services 
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:>1945
+++Dependencies
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:>1944
+++Properties
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\properties\
+++wwwroot
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\
+++cdnjs.cloudflare.com
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\
+++ajax
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\
+++libs
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\
+++gsap
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\gsap\
+++jquery.imagesloaded
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\jquery.imagesloaded\
+++4.1.4
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\jquery.imagesloaded\4.1.4\
+++ScrollMagic
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\scrollmagic\
+++2.0.5
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\scrollmagic\2.0.5\
+++three.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\three.js\
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\three.js\r83\three.js
+++r83
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\three.js\r83\
+++css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\
+++assets.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\assets.css
+++content.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\content.css
+++font-awesome.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\font-awesome.min.css
+++owl.video.play.html
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\owl.video.play.html
+++portfolio.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\portfolio.css
+++shortcodes.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\shortcodes.css
+++showcase.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\css\showcase.css
+++fonts
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\
+++images
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\
+++js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\js\
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\
+++clapatwebgl.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\js\clapatwebgl.js
+++common.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\js\common.js
+++jquery.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\js\jquery.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery\dist\jquery.min.js
+++plugins.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\js\plugins.js
+++scripts.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\js\scripts.js
+++lib
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\
+++.DS_Store
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\.ds_store
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\.ds_store
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\.ds_store
+++favicon.ico
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\favicon.ico
+++style.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\style.css
+++Controllers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\controllers\
+++Models
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\models\
+++ErrorViewModel.cs
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\models\errorviewmodel.cs
+++Views
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\
+++Contact
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\contact\
+++Index.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\contact\index.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\home\index.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\index.cshtml
+++Home
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\home\
+++Pricing
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\
+++Shared
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\shared\
+++_ViewImports.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\_viewstart.cshtml
+++appsettings.json
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\appsettings.json
+++Program.cs
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\program.cs
+++No service dependencies discovered
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:>1946
+++Analyzers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:analyzers
+++Frameworks
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:frameworks
+++PublishProfiles
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\properties\publishprofiles\
+++launchSettings.json
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\properties\launchsettings.json
+++3.7.1
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\gsap\3.7.1\
+++imagesloaded.pkgd.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\jquery.imagesloaded\4.1.4\imagesloaded.pkgd.js
+++plugins
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\scrollmagic\2.0.5\plugins\
+++ScrollMagic.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\scrollmagic\2.0.5\scrollmagic.min.js
+++4a24899e94d8236f671c1090cd9e068c.eot
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\4a24899e94d8236f671c1090cd9e068c.eot
+++4a24899e94d8236f671c1090cd9e068c.svg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\4a24899e94d8236f671c1090cd9e068c.svg
+++4a24899e94d8236f671c1090cd9e068c.ttf
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\4a24899e94d8236f671c1090cd9e068c.ttf
+++4a24899e94d8236f671c1090cd9e068c.woff
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\4a24899e94d8236f671c1090cd9e068c.woff
+++4a24899e94d8236f671c1090cd9e068c.woff2
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\4a24899e94d8236f671c1090cd9e068c.woff2
+++4a24899e94d8236f671c1090cd9e068cd41d.eot
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\4a24899e94d8236f671c1090cd9e068cd41d.eot
+++acute.html
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\acute.html
+++fontawesome-webfont78ce.eot
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\fontawesome-webfont78ce.eot
+++fontawesome-webfont78ce.svg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\fontawesome-webfont78ce.svg
+++fontawesome-webfont78ce.ttf
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\fontawesome-webfont78ce.ttf
+++fontawesome-webfont78ce.woff
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\fontawesome-webfont78ce.woff
+++fontawesome-webfontd41d.eot
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\fonts\fontawesome-webfontd41d.eot
+++displacement
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\displacement\
+++projects
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\
+++shortcodes
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\
+++01hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\01hero.jpg
+++02hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\02hero.jpg
+++03hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\03hero.jpg
+++04hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\04hero.jpg
+++05hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\05hero.jpg
+++06hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\06hero.jpg
+++07hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\07hero.jpg
+++08hero.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\08hero.jpg
+++about.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\about.jpg
+++client-01.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-01.png
+++client-01-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-01-white.png
+++client-02.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-02.png
+++client-02-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-02-white.png
+++client-03.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-03.png
+++client-03-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-03-white.png
+++client-04.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-04.png
+++client-04-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-04-white.png
+++client-05.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-05.png
+++client-05-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-05-white.png
+++client-06.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-06.png
+++client-06-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-06-white.png
+++client-07.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-07.png
+++client-07-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-07-white.png
+++client-08.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-08.png
+++client-08-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\client-08-white.png
+++logo.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\logo.png
+++logo-big.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\logo-big.png
+++logo-white.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\logo-white.png
+++marker.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\marker.png
+++rotate.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\rotate.png
+++team1.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\team1.jpg
+++team2.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\team2.jpg
+++team3.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\team3.jpg
+++team4.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\team4.jpg
+++bootstrap
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\
+++jquery
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery\
+++jquery-validation
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation-unobtrusive\
+++ContactController.cs
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\controllers\contactcontroller.cs
+++HomeController.cs
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\controllers\homecontroller.cs
+++PricingController.cs
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\controllers\pricingcontroller.cs
+++AntiWrinkleInjections.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\antiwrinkleinjections.cshtml
+++DermalFillers.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\dermalfillers.cshtml
+++FatDisolvingInjections.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\fatdisolvinginjections.cshtml
+++PdoMonoThreads.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\pdomonothreads.cshtml
+++SkinTreatments.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\skintreatments.cshtml
+++VitaminBoosters.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\pricing\vitaminboosters.cshtml
+++_Layout.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\shared\error.cshtml
+++appsettings.Development.json
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\microsoft.netcore.app
+++FolderProfile 1.pubxml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\properties\publishprofiles\folderprofile 1.pubxml
+++FolderProfile 2.pubxml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\properties\publishprofiles\folderprofile 2.pubxml
+++FolderProfile 3.pubxml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\properties\publishprofiles\folderprofile 3.pubxml
+++FolderProfile.pubxml
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\properties\publishprofiles\folderprofile.pubxml
+++Draggable.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\gsap\3.7.1\draggable.min.js
+++ScrollTrigger.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\gsap\3.7.1\scrolltrigger.min.js
+++animation.gsap.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\cdnjs.cloudflare.com\ajax\libs\scrollmagic\2.0.5\plugins\animation.gsap.min.js
+++7.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\displacement\7.jpg
+++goldman-cover.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\goldman-cover.jpg
+++greenorange01.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\greenorange01.png
+++greenorange02.png
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\greenorange02.png
+++opulence01.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\opulence01.jpg
+++opulence02.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\opulence02.jpg
+++opulence03.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\opulence03.jpg
+++opulence04.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\opulence04.jpg
+++opulence05.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\opulence05.jpg
+++opulence06.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\opulence06.jpg
+++pulse01.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\pulse01.jpg
+++pulse02.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\pulse02.jpg
+++pulse03.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\pulse03.jpg
+++pulse04.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\pulse04.jpg
+++pulse05.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\pulse05.jpg
+++pulse06.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\pulse06.jpg
+++shirt01.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\shirt01.jpg
+++shirt02.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\shirt02.jpg
+++shirt03.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\shirt03.jpg
+++shirt04.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\shirt04.jpg
+++soundblaster01.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\soundblaster01.jpg
+++soundblaster02.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\soundblaster02.jpg
+++soundblaster03.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\soundblaster03.jpg
+++soundblaster04.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\projects\soundblaster04.jpg
+++collage01.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\collage01.jpg
+++collage02.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\collage02.jpg
+++collage03.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\collage03.jpg
+++collage04.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\collage04.jpg
+++collage05.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\collage05.jpg
+++collage06.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\collage06.jpg
+++collage07.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\collage07.jpg
+++image01.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image01.jpg
+++image01w.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image01w.jpg
+++image02.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image02.jpg
+++image02w.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image02w.jpg
+++image03.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image03.jpg
+++image03w.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image03w.jpg
+++image04.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image04.jpg
+++image04w.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\image04w.jpg
+++pinned01.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\pinned01.jpg
+++pinned02.jpg
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\images\shortcodes\pinned02.jpg
+++dist
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery\dist\
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery\license.txt
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\views\shared\_layout.cshtml.css
+++jquery.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++additional-methods.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{562a3006-e239-4240-985e-55fc2d4bcf88}:c:\users\hilal\downloads\larademiraesthetics 2\larademiraesthetics\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++NewFolder
+++TermsCondiitions
+++TermsConditions
+++Terms
+++Terms.cs
+++TermsController.cs
+++testfolder

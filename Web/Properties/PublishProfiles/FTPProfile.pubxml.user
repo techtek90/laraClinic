@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr7ORAa3YSEioqyHV9hVw+gAAAAACAAAAAAAQZgAAAAEAACAAAADuYFn+qOmaXPXQfowm6C7Ys6xyxnFXb6m7BJvr0PVwiAAAAAAOgAAAAAIAACAAAACCu9oxd3V0psAuSJ/zREatx1i+zk8GT52qWMiX0nfspyAAAAAjoalTRzQsyLHxOTi7BJEs97Ag5m6IAnCXuEoS+Bv3KkAAAAARGs6042KDx4ezyBsffamD/mvlK7pB/kRcco0pgA1a4UnKJG1ElC8X0469C8y3hYwjUXtJVU70V5IbNOlh2Vnh</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.larademiraesthetics.com/home/utf37rgko2gr/public_html/larademiraesthetics.com/larademir</_PublishTargetUrl>
+    <History>False|2023-08-10T13:50:07.4976514Z;False|2023-08-10T14:46:06.8751777+01:00;False|2023-08-10T14:35:42.0371316+01:00;</History>
+  </PropertyGroup>
+</Project>

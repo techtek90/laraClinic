@@ -1,0 +1,7 @@
+/Users/kamilerdemozerten/workplace/larademiraesthetics/LaraDemirAesthetics/Web/bin/Release/net6.0/publish/Web
+/Users/kamilerdemozerten/workplace/larademiraesthetics/LaraDemirAesthetics/Web/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/kamilerdemozerten/workplace/larademiraesthetics/LaraDemirAesthetics/Web/bin/Release/net6.0/publish/appsettings.json
+/Users/kamilerdemozerten/workplace/larademiraesthetics/LaraDemirAesthetics/Web/bin/Release/net6.0/publish/Web.dll
+/Users/kamilerdemozerten/workplace/larademiraesthetics/LaraDemirAesthetics/Web/bin/Release/net6.0/publish/Web.deps.json
+/Users/kamilerdemozerten/workplace/larademiraesthetics/LaraDemirAesthetics/Web/bin/Release/net6.0/publish/Web.runtimeconfig.json
+/Users/kamilerdemozerten/workplace/larademiraesthetics/LaraDemirAesthetics/Web/bin/Release/net6.0/publish/Web.pdb

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{562A3006-E239-4240-985E-55FC2D4BCF88}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Views/Contact/Index.cshtml">
+    <Files>
+      <File FileName="Web/Views/Contact/Index.cshtml" Line="72" Column="63" />
+      <File FileName="Web/Controllers/ContactController.cs" Line="7" Column="31" />
+      <File FileName="Web/Views/Shared/_Layout.cshtml" Line="166" Column="42" />
+      <File FileName="Web/wwwroot/js/common.js" Line="2718" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LaraDemirAesthetics" expanded="True">
+            <Node name="Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Contact" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

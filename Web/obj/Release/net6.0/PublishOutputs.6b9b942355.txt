@@ -1,0 +1,7 @@
+C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\obj\Release\net6.0\PubTmp\Out\Web.exe
+C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\obj\Release\net6.0\PubTmp\Out\Web.dll
+C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\obj\Release\net6.0\PubTmp\Out\Web.deps.json
+C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\obj\Release\net6.0\PubTmp\Out\Web.runtimeconfig.json
+C:\Users\Hilal\Downloads\LaraDemirAesthetics 2\LaraDemirAesthetics\Web\obj\Release\net6.0\PubTmp\Out\Web.pdb
